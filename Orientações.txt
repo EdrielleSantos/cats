@@ -1,0 +1,9 @@
+1. Fazer o diagrama - usuário, publicacao, like, comment
+-- like: id, id_user, id_publication
+
+
+
+
+
+belongsTo = pertence a 
+User.hasMany(Like) - um usuário tem varios likes
